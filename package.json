@@ -1,7 +1,7 @@
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
-  "description": "A simple logo maker from CLI response",
+  "description": "A simple logo maker created from the users simple response.",
   "main": "index.js",
   "directories": {
     "example": "examples",
@@ -10,17 +10,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/javieb5186/svg-logo-maker.git"
-  },
-  "author": "Javier B",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/javieb5186/svg-logo-maker/issues"
-  },
-  "homepage": "https://github.com/javieb5186/svg-logo-maker#readme",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
+    "color": "^4.2.3",
     "inquirer": "^8.2.4",
     "jest": "^29.5.0"
   }
